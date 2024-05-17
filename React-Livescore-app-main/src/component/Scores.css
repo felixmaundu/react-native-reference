@@ -1,0 +1,31 @@
+.gmmm{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.ghff{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+    width: 60%;
+    cursor: pointer;
+}
+.team1{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: flex-end;
+}
+.team2{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: flex-start;
+}
+.time{
+    width: 15%;
+}
+.star{
+    width: 15%;
+}
